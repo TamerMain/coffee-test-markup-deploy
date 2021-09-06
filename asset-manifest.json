@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coffee-test-markup-deploy/static/css/main.7a708982.chunk.css",
-    "main.js": "/coffee-test-markup-deploy/static/js/main.1ab22f15.chunk.js",
-    "main.js.map": "/coffee-test-markup-deploy/static/js/main.1ab22f15.chunk.js.map",
-    "runtime-main.js": "/coffee-test-markup-deploy/static/js/runtime-main.0bb9f47c.js",
-    "runtime-main.js.map": "/coffee-test-markup-deploy/static/js/runtime-main.0bb9f47c.js.map",
-    "static/js/2.240ad6e6.chunk.js": "/coffee-test-markup-deploy/static/js/2.240ad6e6.chunk.js",
-    "static/js/2.240ad6e6.chunk.js.map": "/coffee-test-markup-deploy/static/js/2.240ad6e6.chunk.js.map",
-    "static/js/3.2593b8c8.chunk.js": "/coffee-test-markup-deploy/static/js/3.2593b8c8.chunk.js",
-    "static/js/3.2593b8c8.chunk.js.map": "/coffee-test-markup-deploy/static/js/3.2593b8c8.chunk.js.map",
+    "main.css": "/coffee-test-markup-deploy/static/css/main.3a57eab7.chunk.css",
+    "main.js": "/coffee-test-markup-deploy/static/js/main.82f44ff6.chunk.js",
+    "main.js.map": "/coffee-test-markup-deploy/static/js/main.82f44ff6.chunk.js.map",
+    "runtime-main.js": "/coffee-test-markup-deploy/static/js/runtime-main.0586f9db.js",
+    "runtime-main.js.map": "/coffee-test-markup-deploy/static/js/runtime-main.0586f9db.js.map",
+    "static/js/2.f995d153.chunk.js": "/coffee-test-markup-deploy/static/js/2.f995d153.chunk.js",
+    "static/js/2.f995d153.chunk.js.map": "/coffee-test-markup-deploy/static/js/2.f995d153.chunk.js.map",
+    "static/js/3.ae2333e4.chunk.js": "/coffee-test-markup-deploy/static/js/3.ae2333e4.chunk.js",
+    "static/js/3.ae2333e4.chunk.js.map": "/coffee-test-markup-deploy/static/js/3.ae2333e4.chunk.js.map",
     "index.html": "/coffee-test-markup-deploy/index.html",
-    "static/css/main.7a708982.chunk.css.map": "/coffee-test-markup-deploy/static/css/main.7a708982.chunk.css.map",
-    "static/js/2.240ad6e6.chunk.js.LICENSE.txt": "/coffee-test-markup-deploy/static/js/2.240ad6e6.chunk.js.LICENSE.txt",
+    "static/css/main.3a57eab7.chunk.css.map": "/coffee-test-markup-deploy/static/css/main.3a57eab7.chunk.css.map",
+    "static/js/2.f995d153.chunk.js.LICENSE.txt": "/coffee-test-markup-deploy/static/js/2.f995d153.chunk.js.LICENSE.txt",
     "static/media/Vector 22.e2b7a069.svg": "/coffee-test-markup-deploy/static/media/Vector 22.e2b7a069.svg",
     "static/media/Vector 23.e410b4b4.svg": "/coffee-test-markup-deploy/static/media/Vector 23.e410b4b4.svg",
     "static/media/Vector 27.af61e522.svg": "/coffee-test-markup-deploy/static/media/Vector 27.af61e522.svg",
@@ -22,13 +22,15 @@
     "static/media/facebook.49025a59.svg": "/coffee-test-markup-deploy/static/media/facebook.49025a59.svg",
     "static/media/insta.854a73d4.svg": "/coffee-test-markup-deploy/static/media/insta.854a73d4.svg",
     "static/media/line.49208c22.svg": "/coffee-test-markup-deploy/static/media/line.49208c22.svg",
-    "static/media/menuButton.28a0966d.svg": "/coffee-test-markup-deploy/static/media/menuButton.28a0966d.svg",
+    "static/media/menuButton.6c628d97.svg": "/coffee-test-markup-deploy/static/media/menuButton.6c628d97.svg",
+    "static/media/shopping-cart.14bb3a5c.svg": "/coffee-test-markup-deploy/static/media/shopping-cart.14bb3a5c.svg",
+    "static/media/shoppingCartBlack.a06b4e80.svg": "/coffee-test-markup-deploy/static/media/shoppingCartBlack.a06b4e80.svg",
     "static/media/twitter.91951e5b.svg": "/coffee-test-markup-deploy/static/media/twitter.91951e5b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0bb9f47c.js",
-    "static/js/2.240ad6e6.chunk.js",
-    "static/css/main.7a708982.chunk.css",
-    "static/js/main.1ab22f15.chunk.js"
+    "static/js/runtime-main.0586f9db.js",
+    "static/js/2.f995d153.chunk.js",
+    "static/css/main.3a57eab7.chunk.css",
+    "static/js/main.82f44ff6.chunk.js"
   ]
 }
