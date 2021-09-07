@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/coffee-test-markup-deploy/static/css/main.3a57eab7.chunk.css",
-    "main.js": "/coffee-test-markup-deploy/static/js/main.c491b4a3.chunk.js",
-    "main.js.map": "/coffee-test-markup-deploy/static/js/main.c491b4a3.chunk.js.map",
+    "main.js": "/coffee-test-markup-deploy/static/js/main.63a40a5a.chunk.js",
+    "main.js.map": "/coffee-test-markup-deploy/static/js/main.63a40a5a.chunk.js.map",
     "runtime-main.js": "/coffee-test-markup-deploy/static/js/runtime-main.d71db5b7.js",
     "runtime-main.js.map": "/coffee-test-markup-deploy/static/js/runtime-main.d71db5b7.js.map",
-    "static/js/2.ba0f7879.chunk.js": "/coffee-test-markup-deploy/static/js/2.ba0f7879.chunk.js",
-    "static/js/2.ba0f7879.chunk.js.map": "/coffee-test-markup-deploy/static/js/2.ba0f7879.chunk.js.map",
+    "static/js/2.e15528d5.chunk.js": "/coffee-test-markup-deploy/static/js/2.e15528d5.chunk.js",
+    "static/js/2.e15528d5.chunk.js.map": "/coffee-test-markup-deploy/static/js/2.e15528d5.chunk.js.map",
     "static/js/3.a4850ee9.chunk.js": "/coffee-test-markup-deploy/static/js/3.a4850ee9.chunk.js",
     "static/js/3.a4850ee9.chunk.js.map": "/coffee-test-markup-deploy/static/js/3.a4850ee9.chunk.js.map",
     "index.html": "/coffee-test-markup-deploy/index.html",
     "static/css/main.3a57eab7.chunk.css.map": "/coffee-test-markup-deploy/static/css/main.3a57eab7.chunk.css.map",
-    "static/js/2.ba0f7879.chunk.js.LICENSE.txt": "/coffee-test-markup-deploy/static/js/2.ba0f7879.chunk.js.LICENSE.txt",
+    "static/js/2.e15528d5.chunk.js.LICENSE.txt": "/coffee-test-markup-deploy/static/js/2.e15528d5.chunk.js.LICENSE.txt",
     "static/media/Vector 22.e2b7a069.svg": "/coffee-test-markup-deploy/static/media/Vector 22.e2b7a069.svg",
     "static/media/Vector 23.e410b4b4.svg": "/coffee-test-markup-deploy/static/media/Vector 23.e410b4b4.svg",
     "static/media/Vector 27.af61e522.svg": "/coffee-test-markup-deploy/static/media/Vector 27.af61e522.svg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d71db5b7.js",
-    "static/js/2.ba0f7879.chunk.js",
+    "static/js/2.e15528d5.chunk.js",
     "static/css/main.3a57eab7.chunk.css",
-    "static/js/main.c491b4a3.chunk.js"
+    "static/js/main.63a40a5a.chunk.js"
   ]
 }
